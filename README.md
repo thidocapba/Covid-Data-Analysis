@@ -1,1 +1,1 @@
-# Covid-Data-Analysis using Jupyter NoteBook
+# using Jupyter NoteBook to get insight from covid-19-india dataset
